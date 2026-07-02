@@ -30,6 +30,17 @@ In the web console, deploy PostgreSQL using Software Catalog.
 
 <img width="906" height="334" alt="Screenshot 2026-07-02 at 1 05 09 PM" src="https://github.com/user-attachments/assets/d034e703-e69b-477d-b56e-27b5a5d77540" />
 
+If experience the following "rate-limit" issue: 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/5f2256a0-edbe-4628-854c-4d20d41d7f1e" />
+
+Then, try to fork the repository to your own GitHub account and then use that.
+
+**⚠️ Make sure repository is public**
+
+<img width="750" height="355" alt="Screenshot 2026-07-02 at 4 17 22 PM" src="https://github.com/user-attachments/assets/36adc074-e9f4-4a68-92b7-778000b464f3" />
+
+
+
 2. Git repo URL: this repository. Under **Advanced Git options**, set
    **Context dir** to `/backend` (it has its own Dockerfile).
 
